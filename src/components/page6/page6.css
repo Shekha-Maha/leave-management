@@ -1,0 +1,513 @@
+@media only screen and (min-width:320px) and (max-width:479px) {
+  #text3{
+    font-size: 3.4vw;
+    color: #000000;
+    font-weight:bold;
+    text-align: center;
+}
+.paycut{
+   margin-left: 1%;
+}
+
+#paycode{
+    font-size: 2.2vw;
+    color: #000000;
+    font-weight:bold;
+    text-align: right;
+    padding-right: 7.9%;
+}
+#paymonth{
+    font-size: 2vw;
+    color: #000000;
+    font-weight:normal;
+    text-align: right;
+    padding-right: 1%;
+    margin-top: -1.2%;
+}
+.address{
+    color: #000000 60%;
+    font-size: 1.3vw;
+    font-weight: normal;
+    margin-left: 1%;
+}
+
+#naming{
+    color: #000000;
+    font-size: 3.1vw;
+    font-weight: bold; 
+    margin-top: 2%;
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    border: 1px solid rgba(221,221,221,0.5);
+    width: 100%;
+  }
+  
+  td, th {
+    border-top: 1px solid rgba(221,221,221,0.5);
+    border-bottom: 1px solid rgba(221,221,221,0.5);
+    padding: 8px;
+    padding-left: 15px;
+    text-align:left;
+  }
+  
+  
+  .amount{
+  text-align: right;
+  }
+  .amount:before{
+  content: "\0024";
+  }
+  
+  .align-left{
+  text-align:left;
+  }
+  
+  * {
+    box-sizing: border-box;
+  }
+  
+  .flex-container {
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+  }
+  
+  .flex-item-left {
+    padding: 10px;
+    flex: 50%;
+  }
+  
+  .flex-item-right {
+    padding: 10px;
+    flex: 50%;
+  }
+#netsalary{
+    color: #000000 60%;
+    font-size: 3.4vw;
+    text-align: center;
+}
+.bold{
+    color: #000000;
+    font-size: 3.4vw;
+
+}
+
+}
+
+
+@media only screen and (min-width:480px) and (max-width:766px){
+    
+    #text3{
+        font-size: 3.4vw;
+        color: #000000;
+        font-weight:bold;
+        text-align: center;
+   }
+   .paycut{
+       margin-left: 1%;
+   }
+   
+   #paycode{
+        font-size: 2.2vw;
+        color: #000000;
+        font-weight:bold;
+        text-align: right;
+        padding-right: 7.9%;
+   }
+   #paymonth{
+        font-size: 2vw;
+        color: #000000;
+        font-weight:normal;
+        text-align: right;
+        padding-right: 1%;
+        margin-top: -1.2%;
+   }
+   .address{
+        color: #000000 60%;
+        font-size: 1.3vw;
+        font-weight: normal;
+        margin-left: 1%;
+   }
+
+    #naming{
+        color: #000000;
+        font-size: 3.1vw;
+        font-weight: bold; 
+        margin-top: 2%;
+    }
+
+    table {
+        font-family: arial, sans-serif;
+        border-collapse: collapse;
+        border: 1px solid rgba(221,221,221,0.5);
+        width: 100%;
+      }
+      
+      td, th {
+        border-top: 1px solid rgba(221,221,221,0.5);
+        border-bottom: 1px solid rgba(221,221,221,0.5);
+        padding: 8px;
+        padding-left: 15px;
+        text-align:left;
+      }
+      
+      
+      .amount{
+      text-align: right;
+      }
+      .amount:before{
+      content: "\0024";
+      }
+      
+      .align-left{
+      text-align:left;
+      }
+      
+      * {
+        box-sizing: border-box;
+      }
+      
+      .flex-container {
+        display: flex;
+        flex-wrap: wrap;
+        text-align: center;
+      }
+      
+      .flex-item-left {
+        padding: 10px;
+        flex: 50%;
+      }
+      
+      .flex-item-right {
+        padding: 10px;
+        flex: 50%;
+      }
+    #netsalary{
+        color: #000000 60%;
+        font-size: 3.4vw;
+        text-align: center;
+    }
+   .bold{
+        color: #000000;
+        font-size: 3.4vw;
+
+  }
+
+}
+@media only screen and (min-width:767px) and (max-width:990px){
+
+    #text3{
+        font-size: 1.8vw;
+        color: #000000;
+        font-weight:bold;
+        text-align: center;
+        margin-top: 1%;
+   }
+   .paycut{
+       margin-left: 1%;
+   }
+   
+   #paycode{
+        font-size: 1.5vw;
+        color: #000000;
+        font-weight:bold;
+        text-align: right;
+        padding-right: 3.8%;
+   }
+   #paymonth{
+        font-size: 1.2vw;
+        color: #000000;
+        font-weight:normal;
+        text-align: right;
+        padding-right: 1%;
+        margin-top: -1.2%;
+   }
+   .address{
+        color: #000000 60%;
+        font-size: .7vw;
+        font-weight: normal;
+        margin-left: 1%;
+   }
+
+    #naming{
+        color: #000000;
+        font-size: 1.5vw;
+        font-weight: bold; 
+        margin-top: 2%;
+    }
+
+    table {
+        font-family: arial, sans-serif;
+        border-collapse: collapse;
+        border: 1px solid rgba(221,221,221,0.5);
+        width: 100%;
+      }
+      
+      td, th {
+        border-top: 1px solid rgba(221,221,221,0.5);
+        border-bottom: 1px solid rgba(221,221,221,0.5);
+        padding: 8px;
+        padding-left: 15px;
+        text-align:left;
+      }
+      
+      
+      .amount{
+      text-align: right;
+      }
+      .amount:before{
+      content: "\0024";
+      }
+      
+      .align-left{
+      text-align:left;
+      }
+      
+      * {
+        box-sizing: border-box;
+      }
+      
+      .flex-container {
+        display: flex;
+        flex-wrap: wrap;
+        text-align: center;
+      }
+      
+      .flex-item-left {
+        padding: 10px;
+        flex: 50%;
+      }
+      
+      .flex-item-right {
+        padding: 10px;
+        flex: 50%;
+      }
+      
+    #netsalary{
+        color: #000000 60%;
+        font-size: 1.5vw;
+        text-align: center;
+    }
+   .bold{
+        color: #000000;
+        font-size: 1.5vw;
+
+  }
+
+
+
+}
+
+@media only screen and (min-width:991px) and (max-width: 1199px){
+    
+    #text3{
+        font-size: 1.8vw;
+        color: #000000;
+        font-weight:bold;
+        text-align: center;
+        margin-top: 1%;
+   }
+   .paycut{
+       margin-left: 1%;
+   }
+   
+   #paycode{
+        font-size: 1.5vw;
+        color: #000000;
+        font-weight:bold;
+        text-align: right;
+        padding-right: 3.8%;
+   }
+   #paymonth{
+        font-size: 1.2vw;
+        color: #000000;
+        font-weight:normal;
+        text-align: right;
+        padding-right: 1%;
+        margin-top: -1.2%;
+   }
+   .address{
+        color: #000000 60%;
+        font-size: .7vw;
+        font-weight: normal;
+        margin-left: 1%;
+   }
+
+    #naming{
+        color: #000000;
+        font-size: 1.5vw;
+        font-weight: bold; 
+        margin-top: 2%;
+    }
+
+    table {
+        font-family: arial, sans-serif;
+        border-collapse: collapse;
+        border: 1px solid rgba(221,221,221,0.5);
+        width: 100%;
+      }
+      
+      td, th {
+        border-top: 1px solid rgba(221,221,221,0.5);
+        border-bottom: 1px solid rgba(221,221,221,0.5);
+        padding: 8px;
+        padding-left: 15px;
+        text-align:left;
+      }
+      
+      
+      .amount{
+      text-align: right;
+      }
+      .amount:before{
+      content: "\0024";
+      }
+      
+      .align-left{
+      text-align:left;
+      }
+      
+      * {
+        box-sizing: border-box;
+      }
+      
+      .flex-container {
+        display: flex;
+        flex-wrap: wrap;
+        text-align: center;
+      }
+      
+      .flex-item-left {
+        padding: 10px;
+        flex: 50%;
+      }
+      
+      .flex-item-right {
+        padding: 10px;
+        flex: 50%;
+      }
+      
+
+
+
+
+
+    #netsalary{
+        color: #000000 60%;
+        font-size: 1.5vw;
+        text-align: center;
+    }
+   .bold{
+        color: #000000;
+        font-size: 1.5vw;
+
+  }
+
+
+
+}
+
+
+@media only screen and (min-width: 1200px){
+
+    #text3{
+        font-size: 1.8vw;
+        color: #000000;
+        font-weight:bold;
+        text-align: center;
+   }
+   .paycut{
+       margin-left: 1%;
+   }
+   
+   #paycode{
+        font-size: 1.5vw;
+        color: #000000;
+        font-weight:bold;
+        text-align: right;
+        padding-right: 3.8%;
+   }
+   #paymonth{
+        font-size: 1.2vw;
+        color: #000000;
+        font-weight:normal;
+        text-align: right;
+        padding-right: 1%;
+        margin-top: -1.2%;
+   }
+   .address{
+        color: #000000 60%;
+        font-size: .5vw;
+        font-weight: normal;
+        margin-left: 1%;
+   }
+
+    #naming{
+        color: #000000;
+        font-size: 1.2vw;
+        font-weight: bold; 
+        margin-top: 2%;
+    }
+
+    table {
+        font-family: arial, sans-serif;
+        border-collapse: collapse;
+        border: 1px solid rgba(221,221,221,0.5);
+        width: 100%;
+      }
+      
+      td, th {
+        border-top: 1px solid rgba(221,221,221,0.5);
+        border-bottom: 1px solid rgba(221,221,221,0.5);
+        padding: 8px;
+        padding-left: 15px;
+        text-align:left;
+      }
+      
+      
+      .amount{
+      text-align: right;
+      }
+      .amount:before{
+      content: "\0024";
+      }
+      
+      .align-left{
+      text-align:left;
+      }
+      
+      * {
+        box-sizing: border-box;
+      }
+      
+      .flex-container {
+        display: flex;
+        flex-wrap: wrap;
+        text-align: center;
+      }
+      
+      .flex-item-left {
+        padding: 10px;
+        flex: 50%;
+      }
+      
+      .flex-item-right {
+        padding: 10px;
+        flex: 50%;
+      }
+
+    #netsalary{
+        color: #000000 60%;
+        font-size: 1.5vw;
+        text-align: center;
+    }
+   .bold{
+        color: #000000;
+        font-size: 1.5vw;
+
+  }
+
+}
